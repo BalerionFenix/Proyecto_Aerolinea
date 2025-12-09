@@ -12,7 +12,7 @@ Para obtener el código fuente de la aplicación, puedes clonar ambos repositori
 ### 1\. Backend (API y Lógica del Servidor)
 
 Este repositorio contiene la lógica de negocio y la API de la aerolínea.
-  * **URL del Hosting:** [aerolinea-web.firebaseapp.com)
+  * **URL del Hosting:** [[aerolinea-web.firebaseapp.com](https://aerolinea-web.firebaseapp.com/))
   * **URL del Repositorio:** [https://github.com/BalerionFenix/aerolinea-backend.git](https://github.com/BalerionFenix/aerolinea-backend.git)
   * **Comando de Clonación (gh CLI):**
     ```bash
