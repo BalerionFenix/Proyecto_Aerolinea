@@ -40,4 +40,3 @@ El siguiente enlace de YouTube puede ser una demostraci√≥n del proyecto, una gu√
   * **1 Video:** [https://www.youtube.com/watch?v=q76g54vCZ24](https://www.youtube.com/watch?v=q76g54vCZ24)
   * **2 Video:** [https://www.youtube.com/watch?v=q76g54vCZ24](https://youtu.be/eQ9LfOJbPxw)
 
-  https://youtu.be/eQ9LfOJbPxw
