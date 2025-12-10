@@ -37,4 +37,7 @@ Este repositorio contiene la interfaz de usuario con la que interactúan los usu
 
 El siguiente enlace de YouTube puede ser una demostración del proyecto, una guía de configuración o un video de referencia:
 
-  * **Video:** [https://www.youtube.com/watch?v=q76g54vCZ24](https://www.youtube.com/watch?v=q76g54vCZ24)
+  * **1 Video:** [https://www.youtube.com/watch?v=q76g54vCZ24](https://www.youtube.com/watch?v=q76g54vCZ24)
+  * **2 Video:** [https://www.youtube.com/watch?v=q76g54vCZ24](https://youtu.be/eQ9LfOJbPxw)
+
+  https://youtu.be/eQ9LfOJbPxw
